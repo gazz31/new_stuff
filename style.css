@@ -18,6 +18,23 @@ body .main_box
     height:100%;
     width:100%;
 }
+
+
+.main_box .one
+{
+    color:white;
+    font-size:4rem;
+    text-align:center;
+    width:90%;
+    margin:0 auto;
+    display: block;
+    font-style:italic;
+    visibility:visible;
+    height:100%;
+}
+
+
+
 .main_box nav
 {
     
@@ -93,6 +110,7 @@ body .main_box
     border-radius: 42px;
 }
 
+
 .main_box header .img
 {
     margin:4em auto;
@@ -113,7 +131,7 @@ body .main_box
 {
    
     position: absolute;
-    bottom:-250px;
+    bottom:-330px;
     content: "Mama z jagodami :-)";
     letter-spacing: 10px;
     line-height: 1.8rem;
@@ -150,7 +168,7 @@ body .main_box
 .img_1::after
 {
     position: absolute;
-    bottom:-1110px;
+    bottom:-1190px;
     content: "Wioskowe sianko ;-]";
     letter-spacing: 10px;
     line-height: 1.8rem;
@@ -191,7 +209,7 @@ body .main_box
 {
    
     position: absolute;
-    bottom:-1970px;
+    bottom:-2050px;
     content: "Piękna piwonia :*";
     letter-spacing: 10px;
     line-height: 1.8rem;
@@ -240,7 +258,7 @@ body .main_box
 {
    
     position: absolute;
-    bottom:-2830px;
+    bottom:-2910px;
     content: "Cudowne niebo _|^^|_";
     letter-spacing: 10px;
     line-height: 1.8rem;
